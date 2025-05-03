@@ -8,4 +8,5 @@ The Admin dashboard allows centralized control over user roles (Faculty/Exam Dep
 
 The Exam Department dashboard facilitates viewing and downloading of submitted content. It includes a smart PDF extraction feature using PyMuPDF that parses text from uploaded papers. Selected questions can then be compiled into a final question paper using PDF generation libraries such as ReportLab or FPDF.
 
-Built using Flask (Python) and backed by a structured MySQL database, the system ensures a seamless experience for faculty and exam authorities, promoting digitization, reducing manual errors, and ensuring a more secure and scalable academic workflow.
+Built using Flask (Python) and backed by a structured MySQL database, the system ensures a seamless experience for faculty and exam authorities, promoting digitization, reducing manual errors, and ensuring a more secure and scalable academic workflow.  
+q
